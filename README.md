@@ -1,2 +1,2 @@
 # codeLabs
-Here we are share code for practices purpose.
+Here we shared some pieces of code for practices purpose.
